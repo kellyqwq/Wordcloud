@@ -1,5 +1,25 @@
-# Wordcloud
+Wordcloud
+=======
 A simple word cloud generator for python beginner
 
-Prerequisites knowledge:
-File, wordcloud module, matplotlib.pyplot
+Prerequisites knowledge
+------
+* Basic list slicing
+* Basic function
+* File I/O
+* Exception handling
+* Module imports
+
+Prerequisites setting
+--------
+* Wordcloud module's setting
+* Matplotlib module's setting
+
+Issues
+------
+If there's any bug please post on the issue board
+
+Thanks
+------
+[Matplotlib](https://github.com/matplotlib/matplotlib)
+[Wordcloud](https://github.com/amueller/word_cloud)
